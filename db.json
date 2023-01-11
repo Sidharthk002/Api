@@ -2,131 +2,427 @@
   "data": [
     {
       "id": 1,
-      "brand": "Zebronics",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/n/y/nyfboat000113_1_cc965b26.jpg?rnd=20200526195200",
-      "price": 100,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "brand": "Dell",
+      "img": "https://m.media-amazon.com/images/I/51FIQy0xIOL._AC_UY327_QL65_.jpg",
+      "price": "59,727",
+      "details": "Dell Inspiron 3520 Laptop,12th Gen Intel Core i5-1235U, Windows 11 + MSO'21, 8GB, 1TB HDD + 256GB SSD, 15.6 (39.62Cms) FHD WVA AG 120Hz 250 nits, Black (D560900WIN9B, 1.65Kgs)",
       "category": "Laptop"
     },
     {
       "id": 2,
-      "brand": "Zebronics",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/n/y/nyfblta000011_1.jpg?rnd=20200526195200",
-      "price": 120,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Mobile"
+      "brand": "HP",
+      "img": "https://m.media-amazon.com/images/I/81bu95bhbOL._AC_UY327_QL65_.jpg",
+      "price": "29,999",
+      "details": "HP 15s-Ryzen 3 3250U 8GB SDRAM/256GB SSD 15.6inch(39.6cm) HD, Micro-Edge Laptop/AMD Radeon Graphics/Dual Speakers/Win 11 Home/MS Office/Fast Charge/Jet Black/1.69Kg, 15s-ey1508AU",
+      "category": "Laptop"
     },
     {
       "id": 3,
-      "brand": "Zebronics",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/b/c/bc60a_1_c82d81cb.jpg?rnd=20200526195200",
+      "brand": "Acer",
+      "img": "https://m.media-amazon.com/images/I/81Rgr-2YPiL._AC_UY327_QL65_.jpg",
       "price": 130,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Head_Phones"
+      "details": "Acer Nitro 5 Gaming Laptop Intel Core i5-11400H 11th Gen Processor (8GB/512GB SSD/GTX 1650 4GB Graphics/Windows 11 Home/RGB), AN515-57 with 15.6(39.6cms) FHD 144Hz Display + Xbox Game Pass Ultimate",
+      "category": "Laptop"
     },
     {
       "id": 4,
-      "brand": "Zebronics",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/6/1/619660798426_1_727221ba.jpg?rnd=20200526195200",
-      "price": 100,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Speakers"
+      "brand": "Lenovo",
+      "img": "https://m.media-amazon.com/images/I/71C24zZvAjL._AC_UY327_QL65_.jpg",
+      "price": "35,649",
+      "details": "Lenovo IdeaPad Slim 1 AMD Ryzen 3 3250U 15.6 (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/3months Game Pass/Cloud Grey/1.6Kg), 82R10049IN ",
+      "category": "Laptop"
     },
     {
       "id": 5,
-      "brand": "Zebronics",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/c/_/c_8907605107849_1_655fcbdf.jpg?rnd=20200526195200",
-      "price": 200,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Smart_TV"
+      "brand": "Asus",
+      "img": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UY327_QL65_.jpg",
+      "price": "65,000",
+      "details": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+      "category": "Laptop"
     },
     {
       "id": 6,
       "brand": "Apple",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/c/o/cor-nyfcrca000039_1_369033fe.jpg?rnd=20200526195200",
-      "price": 235,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "img": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UY327_QL65_.jpg",
+      "price": "87,900",
+      "details": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey ",
       "category": "Laptop"
     },
     {
       "id": 7,
-      "brand": "Apple",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/a/m/ambrane_8904258106557_1_aff3c266.jpg?rnd=20200526195200",
-      "price": 250,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Mobile"
+      "brand": "Lenovo",
+      "img": "https://m.media-amazon.com/images/I/71w0hh-Q4aL._AC_UY327_QL65_.jpg",
+      "price": "65,390",
+      "details": "Lenovo IdeaPad Slim 5 12th Gen Intel Core i5-1235U 15.6 (39.62cm) FHD IPS Anti-Glare (16GB/512GB SDD/Windows 11/Office 2021/Backlit/1Yr Warranty/3months Game Pass/Storm Grey/1.85Kg), 82SF008YIN ",
+      "category": "Laptop"
     },
     {
       "id": 8,
-      "brand": "Apple",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/n/y/nyfblta000009_1.jpg?rnd=20200526195200",
-      "price": 100,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Head_Phones"
+      "brand": "HP",
+      "img": "https://m.media-amazon.com/images/I/41773Soe4-L._AC_UY327_QL65_.jpg",
+      "price": "35,019",
+      "details": "HP G8 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 240 G8 Business Laptop (14 inch, Black Grey, 1.47 kg) 689T7PA ",
+      "category": "Laptop"
     },
     {
       "id": 9,
-      "brand": "Apple",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/z/b/zb_8906108615899_1_44867a4c.jpg?rnd=20200526195200",
-      "price": 325,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Speakers"
+      "brand": "Acer",
+      "img": "https://m.media-amazon.com/images/I/71rceuYk9JL._AC_UY327_QL65_.jpg",
+      "price": "21,880",
+      "details": "Acer Aspire 3 AMD 3020e Dual core Processor (4GB DDR4 RAM / 1TB HDD / Windows 11 Home/ Black /Narrow Bezel / 1.9 Kg) A314-22 with 14 inches (35.5 cm) HD Display Laptop ",
+      "category": "Laptop"
     },
     {
       "id": 10,
-      "brand": "Apple",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/u/d/ud_bk_1_2f275806.jpg?rnd=20200526195200",
-      "price": 350,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Smart_TV"
+      "brand": "Dell",
+      "img": "https://m.media-amazon.com/images/I/51mS1-bmYBL._AC_UY327_QL65_.jpg",
+      "price": "40,900",
+      "details": "Dell Inspiron 15-inch Laptop (39.62cms) | Windows 11, MS Office H&S 2019 | Intel i3-1115G4 | 8GB DDR4 SDRAM, 512GB SSD | FHD Screen, WVA AG Narrow Border | 3511 - Carbon Black (D560842WIN9B) ",
+      "category": "Laptop"
     },
     {
       "id": 11,
-      "brand": "HP",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/g/r/grey_1_398b5873.jpg?rnd=20200526195200",
-      "price": 375,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "brand": "Apple",
+      "img": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UY327_QL65_.jpg",
+      "price": "1,12,990",
+      "details": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
       "category": "Laptop"
     },
     {
       "id": 12,
-      "brand": "HP",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/b/o/boult-audio-ba-nk-freepods-black_1_17c2dc71.jpg?rnd=20200526195200",
-      "price": 100,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Mobile"
+      "brand": "Asus",
+      "img": "https://m.media-amazon.com/images/I/611SRh1TG7L._AC_UY327_QL65_.jpg",
+      "price": "56,990",
+      "details": "ASUS Vivobook 14, Intel Core i7-1165G7 11th Gen, 14 (35.56 cm) FHD, Thin and Laptop (16GB/512GB SSD/Intel Iris Xe Graphics/Windows 11/Office 2021/FP Sensor/Silver/1.55 kg), X415EA-EK701WS ",
+      "category": "Laptop"
     },
     {
       "id": 13,
-      "brand": "HP",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/d/i/dive_green_1.jpg?rnd=20200526195200",
-      "price": 500,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Head_Phones"
+      "brand": "Redmi",
+      "img": "https://m.media-amazon.com/images/I/71yTvU9VgdL._AC_UY327_QL65_.jpg",
+      "price": "12,999",
+      "details": "Redmi Note 11 (Space Black, 4GB RAM, 64GB Storage)|90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | 33W Charger Included",
+      "category": "Mobile"
     },
     {
       "id": 14,
-      "brand": "HP",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/p/e/pebble-8906086572115_1_34a9b9fd.jpg?rnd=20200526195200",
-      "price": 1000,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Speakers"
+      "brand": "Oppo",
+      "img": "https://m.media-amazon.com/images/I/71geVdy6-OS._AC_UY327_QL65_.jpg",
+      "price": "15,490",
+      "details": "OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "category": "Mobile"
     },
     {
       "id": 15,
-      "brand": "HP",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/p/p/pportronics-por-1195_1_e9dc8e9f.jpg?rnd=20200526195200",
-      "price": 750,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Smart_TV"
+      "brand": "Samsung",
+      "img": "https://m.media-amazon.com/images/I/814ePfNubRL._AC_UY327_QL65_.jpg",
+      "price": "9,499",
+      "details": "Samsung Galaxy M04 Light Green, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 | 5000 mAh Battery ",
+      "category": "Mobile"
     },
     {
       "id": 16,
-      "brand": "Dell",
-      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/m/u/musebud_grey.jpg?rnd=20200526195200",
-      "price": 1500,
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-      "category": "Laptop"
+      "brand": "Realme",
+      "img": "https://m.media-amazon.com/images/I/81HJ4pkOsiL._AC_UY327_QL65_.jpg",
+      "price": "5,999",
+      "details": "realme narzo 50i (Carbon Black, 2GB RAM+32GB Storage) Octa Core Processor | 6.5 inch Large Display ",
+      "category": "Mobile"
+    },
+    {
+      "id": 17,
+      "brand": "Redmi",
+      "img": "https://m.media-amazon.com/images/I/715rSRKUlLL._AC_UY327_QL65_.jpg",
+      "price": "21880",
+      "details": "Redmi K50i 5G (Phantom Blue, 6GB RAM, 128GB Storage) | Flagship Mediatek Dimensity 8100 Processor | 144Hz Liquid FFS Display",
+      "category": "Mobile"
+    },
+    {
+      "id": 18,
+      "brand": "Samsung",
+      "img": "https://m.media-amazon.com/images/I/812yohjGZ2L._AC_UL480_QL65_.jpg",
+      "price": "28,880",
+      "details": "Samsung Galaxy S20 FE 5G (Cloud Mint, 8GB RAM, 128GB Storage)",
+      "category": "Mobile"
+    },
+    {
+      "id": 19,
+      "brand": "Oppo",
+      "img": "https://m.media-amazon.com/images/I/71poFSdDs5S._AC_UY327_QL65_.jpg",
+      "price": "15,490",
+      "details": "OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "category": "Mobile"
+    },
+    {
+      "id": 20,
+      "brand": "Apple",
+      "img": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_QL65_.jpg",
+      "price": "61,999",
+      "details": "Apple iPhone 13 (128GB) - Starlight",
+      "category": "Mobile"
+    },
+    {
+      "id": 21,
+      "brand": "Apple",
+      "img": "https://m.media-amazon.com/images/I/61B0+qQriPL._AC_UY327_QL65_.jpg",
+      "price": "92,999",
+      "details": "Apple iPhone 14 Plus 256GB Midnight ",
+      "category": "Mobile"
+    },
+    {
+      "id": 22,
+      "brand": "Realme",
+      "img": "https://m.media-amazon.com/images/I/81Ke5qtC6oL._AC_UY327_QL65_.jpg",
+      "price": "11,499",
+      "details": "realme narzo 50A (Oxygen Blue , 4GB RAM + 64 GB Storage) Helio G85 Processor | 6000 mAh Battery ",
+      "category": "Mobile"
+    },
+    {
+      "id": 23,
+      "brand": "Vivo",
+      "img": "https://m.media-amazon.com/images/I/61TLDQrtEOL._AC_UY327_QL65_.jpg",
+      "price": "10,,499",
+      "details": "Vivo Y16 (Drizzling Gold, 3GB RAM, 64GB Storage)",
+      "category": "Mobile"
+    },
+    {
+      "id": 24,
+      "brand": "Vivo",
+      "img": "https://m.media-amazon.com/images/I/41Bkbkoo2gL._AC_UY327_QL65_.jpg",
+      "price": "9,499",
+      "details": "Vivo Y15s Mystic Blue (3GB RAM & 32GB ROM)",
+      "category": "Mobile"
+    },
+    {
+      "id": 25,
+      "brand": "Razer",
+      "img": "https://assets2.razerzone.com/images/pnx.assets/a7162f31d113ddf061e1357fe6a3aa0f/razer-nomad-duffel-bag_500x500.png",
+      "price": "4000",
+      "details": "Razer Nomad Duffel Bag",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 26,
+      "brand": "Razer",
+      "img": "https://assets2.razerzone.com/images/pnx.assets/a7162f31d113ddf061e1357fe6a3aa0f/tumi-razer-bozeman-sling_500x500.png",
+      "price": "3,500",
+      "details": "TUMI | Razer Bozeman Sling Bag ",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 27,
+      "brand": "Razer",
+      "img": "https://assets2.razerzone.com/images/pnx.assets/8808ad570e3fecd7db09977def0e7399/chairs-iskur-black.png",
+      "price": "6000",
+      "details": "Razer Iskur - Black",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 28,
+      "brand": "Razer",
+      "img": "https://assets2.razerzone.com/images/pnx.assets/279f8bc9a0479437477d17c7d68bad72/chairs-iskur-x-genshin-impact.png",
+      "price": "8000",
+      "details": "Razer Iskur X-GENSHIN IMPACT EDITION",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 29,
+      "brand": "Pipa Bella",
+      "img": "https://m.media-amazon.com/images/I/41s4NYWN6QL._AC_UL480_QL65_.jpg",
+      "price": "595",
+      "details": "Pipa Bella by Nykaa Fashion Badass Black Wayferer Sunglasses  ",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 30,
+      "brand": "Creek",
+      "img": "https://m.media-amazon.com/images/I/61nXksVDhPS._AC_UL480_QL65_.jpg",
+      "price": "449",
+      "details": "CREEK Blue Light Blocking Blue Cut Zero Power anti-glare Retro Square Eyeglasses,Tony Stark Frame for Eye Protection from UV by Computer/Tablet/Laptop/Mobile (With Torch and Testing Card) ",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 31,
+      "brand": "Titan",
+      "img": "https://m.media-amazon.com/images/I/71Te9TvtbKL._AC_UL480_QL65_.jpg",
+      "price": "4,495",
+      "details": "Titan Analog White Dial Men's Watch-1801SL01",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 32,
+      "brand": "Fire-Bolt",
+      "img": "https://m.media-amazon.com/images/I/61y2VVWcGBL._AC_UL480_QL65_.jpg",
+      "price": "1,998",
+      "details": "Fire-Boltt Phoenix Smart Watch with Bluetooth Calling 1.3,120+ Sports Modes, 240*240 PX High Res with SpO2, Heart Rate Monitoring & IP67 Rating",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 33,
+      "brand": "Sparx",
+      "img": "https://m.media-amazon.com/images/I/71bXrKzfYnL._AC_UL480_QL65_.jpg",
+      "price": "1,549",
+      "details": "Sparx Men's Sx0674g Running Shoes ",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 34,
+      "brand": "Adidas",
+      "img": "https://m.media-amazon.com/images/I/71cFwyj2EJL._AC_UL480_QL65_.jpg",
+      "price": "2,399",
+      "details": "Adidas Mens Fluidglow M Running Shoes ",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 35,
+      "brand": "Xbox",
+      "img": "https://m.media-amazon.com/images/I/71NBQ2a52CL._AC_UY327_QL65_.jpg",
+      "price": "31,990",
+      "details": "Xbox Series S",
+      "category": "PS"
+    },
+    {
+      "id": 36,
+      "brand": "Xbox",
+      "img": "https://m.media-amazon.com/images/G/31/apparel/rcxgs/tile._CB483369979_.gif",
+      "price": "55,890",
+      "details": "Xbox Series X",
+      "category": "PS"
+    },
+    {
+      "id": 37,
+      "brand": "Xbox",
+      "img": "https://m.media-amazon.com/images/I/51WLy0Wv3vL._AC_UY327_QL65_.jpg",
+      "price":"39,999",
+      "details": "Microsoft XBOX one X 1 TB with Fallout 76 bundle ",
+      "category": "PS"
+    },
+    {
+      "id": 38,
+      "brand": "Sony",
+      "img": "https://e2zstore.com/wp-content/uploads/2023/01/ps4slim1tb.jpg",
+      "price": "29,990",
+      "details": "Sony PS4 Slim Console-1TB",
+      "category": "PS"
+    },
+    {
+      "id": 39,
+      "brand": "Sony",
+      "img":"https://e2zstore.com/wp-content/uploads/2023/01/ps4slim1tb.jpg" ,
+      "price": "38,710",
+      "details": "PS4 PRO 1TB ",
+      "category": "PS"
+    },
+    {
+      "id": 40,
+      "brand": "Sony",
+      "img": "https://www.designinfo.in/wp-content/uploads/nc/p/5/1/9/2/3/51923.jpg",
+      "price": "65,560",
+      "details": "Sony PlayStation 5 Console – Disc Edition 825GB, PS5 ",
+      "category": "PS"
+    },
+    {
+      "id": 41,
+      "brand": "Microsoft",
+      "img": "https://m.media-amazon.com/images/I/71YpRfsmgKL._AC_UY327_QL65_.jpg",
+      "price": "5,560",
+      "details": "Microsoft Xbox Series X/S Wireless Controller + USB-C Cable ",
+      "category": "Console"
+    },
+    {
+      "id": 42,
+      "brand": "Microsoft",
+      "img": "https://m.media-amazon.com/images/I/61MdJDbKYjL._AC_UY327_QL65_.jpg",
+      "price": "5,160",
+      "details": "Microsoft Xbox X/S Wireless Controller Robot White",
+      "category": "Console"
+    },
+    {
+      "id": 43,
+      "brand": "Xbox One",
+      "img": "https://m.media-amazon.com/images/I/61h1v+LwkDL._AC_UY327_QL65_.jpg",
+      "price": "5,990",
+      "details": "Xbox Core Controller - Robot White",
+      "category": "Console"
+    },
+    {
+      "id": 44,
+      "brand": "Xbox One",
+      "img": "https://m.media-amazon.com/images/I/61NRRFK7JkL._AC_UY327_QL65_.jpg",
+      "price": "6,560",
+      "details": "Xbox Wireless Controller – Mineral Camo Special Edition",
+      "category": "Console"
+    },
+    {
+      "id": 45,
+      "brand": "Xbox One",
+      "img": "Xbox Wireless Controller - Mineral Camo Special Edition",
+      "price": "5,890",
+      "details": "Microsoft Xbox Wireless Controller Electric Volt",
+      "category": "Console"
+    },
+    {
+      "id": 46,
+      "brand": "Microsoft",
+      "img": "https://m.media-amazon.com/images/I/71Kz+SV9JhL._AC_UY327_QL65_.jpg",
+      "price": "12,560",
+      "details": "Microsoft Xbox Elite Wireless Controller Series 2 - Core ",
+      "category": "Console"
+    },
+    {
+      "id": 47,
+      "brand": "Boat",
+      "img": "https://m.media-amazon.com/images/I/61wkUsZxKjL._AC_UY327_QL65_.jpg",
+      "price": "1,799",
+      "details": "boAt Rockerz 550 Over Ear Bluetooth Headphones with Upto 20 Hours Playback, 50MM Drivers, Soft Padded Ear Cushions and Physical Noise Isolation, Without Mic ",
+      "category": "Headphone"
+    },
+    {
+      "id": 48,
+      "brand": "Boat",
+      "img": "https://m.media-amazon.com/images/I/51xxA+6E+xL._AC_UY327_QL65_.jpg",
+      "price": "1,220",
+      "details": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers, Padded Ear Cushions, Integrated Controls and Dual Modes(Luscious Black) ",
+      "category": "Headphone"
+    },
+    {
+      "id": 49,
+      "brand": "Sony",
+      "img": "https://m.media-amazon.com/images/I/41i+KMBAFjL._AC_UY327_QL65_.jpg",
+      "price": "2,690",
+      "details": "Sony Wh-Ch510 Bluetooth Wireless On Ear Headphones Up-To 35Hrs Playtime Lightweight, Type-C, Play/Pause Control, 30Mm Driver, Bt Version 5.0 & Voice Assistant Support For Mobiles, with mic - Blue ",
+      "category": "Headphone"
+    },
+    {
+      "id": 50,
+      "brand": "Zebronics",
+      "img": "https://m.media-amazon.com/images/I/71O7+VmlvVL._AC_UY327_QL65_.jpg",
+      "price": "748",
+      "details": "ZEBRONICS Zeb-Thunder Bluetooth Wireless Over Ear Headphone FM, mSD, 9 hrs Playback with Mic (Black) ",
+      "category": "Headphone"
+    },
+    {
+      "id": 51,
+      "brand": "Ambrane",
+      "img": "https://m.media-amazon.com/images/I/71Z7Wc0vnnL._AC_UY327_QL65_.jpg",
+      "price": "1,599",
+      "details": "Ambrane RangerZ 2-in-1 Wireless Headphones with Mic + Speakers, Up to 8 Hrs Playtime, 40mm Drivers with BoostedBass™, Bluetooth V5.1, 180° Rotatable, AUX & SD Card Support, Smart Buttons (Black)",
+      "category": "Headphone"
+    },
+    {
+      "id": 52,
+      "brand": "Boult",
+      "img": "https://m.media-amazon.com/images/I/71zyBVbwO4L._AC_UY327_QL65_.jpg",
+      "price": "699",
+      "details": "Boult Audio Bass Buds Q2 Lightweight Stereo Wired Over Ear Headphones Set with Mic with Deep Bass, Comfortable Ear Cushions, & Long Cord (Black) ",
+      "category": "Headphone"
+    },
+    {
+      "id": 53,
+      "brand": "MI",
+      "img": "https://m.media-amazon.com/images/I/71s9FMKzr+L._AC_UY327_QL65_.jpg",
+      "price": "1,599",
+      "details": "MI Super Bass Bluetooth Wireless On Ear Headphones with Mic (Black and Red) ",
+      "category": "Headphone"
     }
   ]
 }
